@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Ayoub's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://ayoub-mallek.github.io",
   },
 };
 
