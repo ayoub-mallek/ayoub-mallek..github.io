@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "ayoubs-portfolio",
-  "homepage": "https://ayoub-mallek-portfolio.herokuapp.com/",
+  "homepage": "https://ayoub-mallek.github.io/developerFolio",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
