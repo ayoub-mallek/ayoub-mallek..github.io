@@ -11,7 +11,7 @@ const seo = {
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Ayoub's Portfolio",
     type: "website",
     url: "http://ashutoshhathidara.com/",
   },
@@ -24,7 +24,7 @@ const greeting = {
   nickname: "Ayoub Mallek",
   subTitle:
     "I am a full stack developer currently working at DOXSO TECHNOLOGIES and studying  Engineering  in Computer  Science at IIT (International Institute Of Technology). I am able to use some programming languages and frameworks to create web and mobile applications",
-  resumeLink:"https://drive.google.com/file/d/1asP8ikWAP-ebj6b6HEkuuCgFJeipc4Ew/view?usp=sharing",
+  resumeLink:"https://drive.google.com/file/d/1XcLNwA1f6C20uWWQUpKe4Yt-QrliZ6-G/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/ashutosh1919",
 };
